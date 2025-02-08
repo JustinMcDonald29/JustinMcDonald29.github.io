@@ -19,3 +19,18 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+.attention-maintainer{
+  position: absolute;
+  bottom: 100;
+  left: 200;
+  margin: 0;
+  padding: 0;
+}
+
+.attention-maintainer2{
+  position: absolute;
+  bottom: 100;
+  right: 200;
+  margin: 0;
+  padding: 0;
+}

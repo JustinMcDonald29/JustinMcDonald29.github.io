@@ -24,9 +24,20 @@ export default function Home() {
         </ol>
         <Image 
           src ="/subwaysurfers-marcomasri.gif" 
+          className="attention-maintainer"
           alt = "attention maintainer"
           width = {330}
           height = {330}
+          unoptimized = {true}
+          />
+
+        <Image 
+          src ="/1RXv.gif" 
+          className="attention-maintainer2"
+          alt = "attention maintainer2"
+          width = {852/2}
+          height = {478/2}
+          unoptimized = {true}
           />
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
